@@ -81,7 +81,7 @@ public class RedisUtil {
      * @param value 值
      * @return true成功 false 失败
      */
-    public void set(String key, String value) {
+    public void set(String key, Object value) {
         redisTemplate.opsForValue().set(key, value);
     }
 
