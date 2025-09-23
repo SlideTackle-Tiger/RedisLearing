@@ -39,6 +39,19 @@
             <scope>provided</scope>
         </dependency>
 
+        <!-- fastjson 是一个高性能的 JSON 库，用于处理 JSON 数据的序列化和反序列化 -->
+        <dependency>
+            <groupId>com.alibaba</groupId>
+            <artifactId>fastjson</artifactId>
+            <version>1.2.83</version>
+        </dependency>
+        <!-- commons-lang3 提供了许多实用的工具类，用于处理字符串、数字、日期、对象等常见任务 -->
+        <dependency>
+            <groupId>org.apache.commons</groupId>
+            <artifactId>commons-lang3</artifactId>
+            <version>3.18.0</version>
+        </dependency>
+
     </dependencies>
     <dependencyManagement>
         <dependencies>
