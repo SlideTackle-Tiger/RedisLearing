@@ -1,4 +1,4 @@
-package org.tiger.redislearing.pojo;
+package org.tiger.redislearning.pojo;
 
 import lombok.Data;
 

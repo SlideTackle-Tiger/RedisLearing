@@ -82,7 +82,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <version>${spring-boot.version}</version>
                 <configuration>
-                    <mainClass>org.tiger.redislearing.RedisLearingApplication</mainClass>
+                    <mainClass>org.tiger.redislearning.RedisLearingApplication</mainClass>
                     <skip>true</skip>
                 </configuration>
                 <executions>

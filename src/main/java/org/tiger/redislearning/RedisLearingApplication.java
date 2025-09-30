@@ -1,4 +1,4 @@
-package org.tiger.redislearing;
+package org.tiger.redislearning;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

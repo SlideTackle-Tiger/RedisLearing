@@ -1,4 +1,4 @@
-package org.tiger.redislearing.base.delayQueue;
+package org.tiger.redislearning.base.delayQueue;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.redis.core.RedisTemplate;

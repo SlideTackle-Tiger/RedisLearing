@@ -1,4 +1,4 @@
-package org.tiger.redislearing;
+package org.tiger.redislearning;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

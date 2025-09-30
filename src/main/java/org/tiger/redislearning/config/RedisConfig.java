@@ -1,4 +1,4 @@
-package org.tiger.redislearing.config;
+package org.tiger.redislearning.config;
 
 import com.fasterxml.jackson.annotation.JsonAutoDetect;
 import com.fasterxml.jackson.annotation.JsonTypeInfo;

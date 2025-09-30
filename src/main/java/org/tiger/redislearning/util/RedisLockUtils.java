@@ -1,4 +1,4 @@
-package org.tiger.redislearing.util;
+package org.tiger.redislearning.util;
 
 import com.alibaba.fastjson.JSON;
 import lombok.Data;

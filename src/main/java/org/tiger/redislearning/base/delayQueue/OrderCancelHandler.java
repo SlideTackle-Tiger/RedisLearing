@@ -1,4 +1,4 @@
-package org.tiger.redislearing.base.delayQueue;
+package org.tiger.redislearning.base.delayQueue;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Component;

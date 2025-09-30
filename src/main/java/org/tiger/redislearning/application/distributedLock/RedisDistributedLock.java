@@ -1,12 +1,12 @@
-package org.tiger.redislearing.application.distributedLock;
+package org.tiger.redislearning.application.distributedLock;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.redis.core.RedisTemplate;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
-import org.tiger.redislearing.util.RedisLockUtils;
-import org.tiger.redislearing.util.ResultUtil;
+import org.tiger.redislearning.util.RedisLockUtils;
+import org.tiger.redislearning.util.ResultUtil;
 
 import java.util.Random;
 

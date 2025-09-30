@@ -1,4 +1,4 @@
-package org.tiger.redislearing.base.pojo;
+package org.tiger.redislearning.base.pojo;
 
 import lombok.Data;
 import lombok.experimental.Accessors;
